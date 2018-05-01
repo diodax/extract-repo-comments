@@ -1,0 +1,17 @@
+{
+  "name": "extract-repo-comments",
+  "version": "1.0.0",
+  "description": "Extract comments from source code repositories of various languages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diosdavi Lara <diosdavi20@gmail.com> (https://diodax.github.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "multilang-extract-comments": "^0.3.0",
+    "path": "^0.12.7",
+    "util": "^0.10.3",
+    "yargs": "^11.0.0"
+  }
+}
